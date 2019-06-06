@@ -8,4 +8,4 @@ On the character creation screen you are able to select from multiple races with
 There are no different classes instead each character can learn skills from different trees.  
 These trees are divided into tanking, healing, magical damage and physical damage.
 
-The following games inspired me to build this game: Gladiabots, World of Warcraft, [Worlf of Textcraft](http://www.text-craft.com/)
+The following games inspired me to build this game: [Gladiabots](https://gladiabots.com/) and [Worlf of Textcraft](http://www.text-craft.com/)
